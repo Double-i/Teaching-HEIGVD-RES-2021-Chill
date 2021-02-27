@@ -7,7 +7,7 @@ import java.math.BigDecimal;
 public class AmsterdamNavigator implements IProduct {
 
     public final static String NAME = "Amsterdam Navigator";
-    public final static BigDecimal PRICE = new BigDecimal(2.7);
+    public final static BigDecimal PRICE = new BigDecimal(2.20);
 
     @Override
     public String getName() {
